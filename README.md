@@ -1,4 +1,4 @@
-# Coffee Shop Landing Page 🍵
+# Coffee Shop
 
 A simple, responsive landing page for a coffee shop built with pure HTML and CSS.
 
