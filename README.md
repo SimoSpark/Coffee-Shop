@@ -8,7 +8,7 @@ A simple, responsive landing page for a coffee shop built with pure HTML and CSS
 
 1. Clone the repository
 ```bash
-[git clone https://github.com/yourusername/coffee-shop-landing](https://github.com/SimoSpark/Coffee-Shop.git)
+https://github.com/SimoSpark/Coffee-Shop.git
 ```
 
 2. Open `index.html` in your browser
